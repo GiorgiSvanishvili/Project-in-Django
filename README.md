@@ -1,2 +1,4 @@
 # Project-in-Django
-My first project in Django. I covered register, login and logout functions. 
+The project is generated with Django version 3
+
+python3 manage.py runserver 
